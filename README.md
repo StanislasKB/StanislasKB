@@ -100,9 +100,9 @@ stanislas@bayord:~$ cat about.json
 
 <div align="center">
 
-<!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=StanislasKB&show_icons=true&theme=dark&bg_color=080808&title_color=f06030&icon_color=f06030&text_color=f2f2f2&border_color=272727&hide_border=false&count_private=true" /> -->
+<img height="180em" src="https://github-readme-stats-git-master-stanislaskbs-projects.vercel.app/api?username=StanislasKB&show_icons=true&theme=dark&bg_color=080808&title_color=f06030&icon_color=f06030&text_color=f2f2f2&border_color=272727&hide_border=false&count_private=true" />
 
-<!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StanislasKB&layout=compact&theme=dark&bg_color=080808&title_color=f06030&text_color=f2f2f2&border_color=272727&hide_border=false&langs_count=8" /> -->
+<img height="180em" src="https://github-readme-stats-git-master-stanislaskbs-projects.vercel.app/api/top-langs/?username=StanislasKB&layout=compact&theme=dark&bg_color=080808&title_color=f06030&text_color=f2f2f2&border_color=272727&hide_border=false&langs_count=8" />
 
 </div>
 
