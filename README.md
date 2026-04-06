@@ -99,17 +99,17 @@ stanislas@bayord:~$ cat about.json
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=StanislasKB&show_icons=true&theme=dark&bg_color=080808&title_color=f06030&icon_color=f06030&text_color=f2f2f2&border_color=272727&hide_border=false&count_private=true" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StanislasKB&layout=compact&theme=dark&bg_color=080808&title_color=f06030&text_color=f2f2f2&border_color=272727&hide_border=false&langs_count=8" />
-
+ 
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=StanislasKB&show_icons=true&theme=dark&bg_color=080808&title_color=f06030&icon_color=f06030&text_color=f2f2f2&border_color=272727&hide_border=false&count_private=true&cache_seconds=1800" />
+ 
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StanislasKB&layout=compact&theme=dark&bg_color=080808&title_color=f06030&text_color=f2f2f2&border_color=272727&hide_border=false&langs_count=8&cache_seconds=1800" />
+ 
 </div>
-
+ 
 <div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=StanislasKB&theme=dark&background=080808&border=272727&ring=f06030&fire=f07840&currStreakLabel=f06030&sideLabels=f2f2f2&dates=909090" />
-
+ 
+<img src="https://github-readme-streak-stats.herokuapp.com?user=stanislas&theme=dark&background=080808&border=272727&ring=f06030&fire=f07840&currStreakLabel=f06030&sideLabels=f2f2f2&dates=909090" />
+ 
 </div>
 
 ---
