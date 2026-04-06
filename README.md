@@ -100,9 +100,9 @@ stanislas@bayord:~$ cat about.json
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats-git-master-stanislaskbs-projects.vercel.app/api?username=StanislasKB&show_icons=true&theme=dark&bg_color=080808&title_color=f06030&icon_color=f06030&text_color=f2f2f2&border_color=272727&hide_border=false&count_private=true" />
+<img height="180em" src="https://github-readme-stats-stanislaskbs-projects.vercel.app/api?username=StanislasKB&show_icons=true&theme=dark&bg_color=080808&title_color=f06030&icon_color=f06030&text_color=f2f2f2&border_color=272727&hide_border=false&count_private=true" />
 
-<!-- <img height="180em" src="https://github-readme-stats-git-master-stanislaskbs-projects.vercel.app/api/top-langs/?username=StanislasKB&layout=compact&theme=dark&bg_color=080808&title_color=f06030&text_color=f2f2f2&border_color=272727&hide_border=false&langs_count=8" /> -->
+<img height="180em" src="https://github-readme-stats-stanislaskbs-projects.vercel.app/api/top-langs/?username=StanislasKB&layout=compact&theme=dark&bg_color=080808&title_color=f06030&text_color=f2f2f2&border_color=272727&hide_border=false&langs_count=8" />
 
 </div>
 
@@ -118,8 +118,8 @@ stanislas@bayord:~$ cat about.json
 
 <div align="center">
 
-[![DomainEye](https://github-readme-stats-git-master-stanislaskbs-projects.vercel.app/api/pin/?username=StanislasKB&repo=DomainEye&theme=dark&bg_color=080808&title_color=f06030&text_color=f2f2f2&border_color=272727&icon_color=38bdf8&cache_seconds=1800)](https://github.com/StanislasKB/DomainEye)
-[![DevOps Boilerplate](https://github-readme-stats-git-master-stanislaskbs-projects.vercel.app/api/pin/?username=StanislasKB&repo=DomainEye&theme=dark&bg_color=080808&title_color=f06030&text_color=f2f2f2&border_color=272727&icon_color=38bdf8&cache_seconds=1800)](https://github.com/StanislasKB/DomainEye)
+[![DomainEye](https://github-readme-stats-stanislaskbs-projects.vercel.app/api/pin/?username=StanislasKB&repo=DomainEye&theme=dark&bg_color=080808&title_color=f06030&text_color=f2f2f2&border_color=272727&icon_color=38bdf8&cache_seconds=1800)](https://github.com/StanislasKB/DomainEye)
+[![DevOps Boilerplate](https://github-readme-stats-stanislaskbs-projects.vercel.app/api/pin/?username=StanislasKB&repo=DomainEye&theme=dark&bg_color=080808&title_color=f06030&text_color=f2f2f2&border_color=272727&icon_color=38bdf8&cache_seconds=1800)](https://github.com/StanislasKB/DomainEye)
 
 </div>
 
