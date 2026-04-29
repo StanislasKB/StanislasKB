@@ -34,7 +34,7 @@ stanislas@bayord:~$ cat about.json
   "name":       "Stanislas Bayord",
   "role":       "Laravel Developer & AWS DevOps Engineer",
   "location":   "Benin, West Africa 🌍",
-  "experience": "4 years",
+  "experience": "3 years",
   "projects":   "20+ delivered",
   "belief":     "A web app should solve real problems, not just run on localhost.",
   "available":  true
